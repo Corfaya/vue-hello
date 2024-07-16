@@ -6,5 +6,5 @@ Bonus: Aggiungere alla pagina un’immagine, presa anch’essa da un data.
 - Istanza dell'applicazione
 - Metodo createApp() di VUE
     - Tramite data() method definire dati dell'applicazione
-        - Restituire oggetto con una chiave "message" (BONUS) e "img" (uso della direttiva v-bind)
+        - Restituire oggetto con una chiave "message", (BONUS) "name" e "img" (uso della direttiva v-bind)
 - Montare l'applicazione sull'elemento del DOM
